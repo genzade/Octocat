@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+clone is a method by which you download the repository from the remote to your local machine
