@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+upstream is a way of distributing your local changes with others on the remote
