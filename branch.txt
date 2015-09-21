@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+branch is used to contain a set of relevant changes that are either in progress or awaiting to be merged with the master branch
